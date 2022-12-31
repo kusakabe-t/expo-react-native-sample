@@ -2,24 +2,24 @@ lockfileVersion: 5.4
 
 specifiers:
   '@babel/core': 7.12.9
-  '@react-native-community/eslint-config': ^3.2.0
+  '@react-native-community/eslint-config': 3.2.0
   '@tsconfig/react-native': 2.0.3
   '@types/jest': 29.2.5
   '@types/react': 18.0.26
   '@types/react-native': 0.70.8
   '@types/react-test-renderer': 18.0.0
-  '@typescript-eslint/eslint-plugin': ^5.47.1
-  '@typescript-eslint/parser': ^5.47.1
+  '@typescript-eslint/eslint-plugin': 5.47.1
+  '@typescript-eslint/parser': 5.47.1
   babel-plugin-module-resolver: 4.1.0
   eslint: 8.31.0
   eslint-config-prettier: 8.5.0
   eslint-config-standard: 17.0.0
-  eslint-plugin-import: 2.25.2
+  eslint-plugin-import: 2.26.0
   eslint-plugin-jsx-a11y: 6.6.1
   eslint-plugin-node: 11.1.0
   eslint-plugin-promise: 6.1.1
   eslint-plugin-react: 7.31.11
-  eslint-plugin-react-native: ^4.0.0
+  eslint-plugin-react-native: 4.0.0
   expo: 47.0.9
   expo-status-bar: 1.4.2
   prettier: 2.8.1
@@ -46,8 +46,8 @@ devDependencies:
   babel-plugin-module-resolver: 4.1.0
   eslint: 8.31.0
   eslint-config-prettier: 8.5.0_eslint@8.31.0
-  eslint-config-standard: 17.0.0_znddyg3pq3gsezdt6zbjevdpmm
-  eslint-plugin-import: 2.25.2_ejk3zt536nc2nr7uicalblhboi
+  eslint-config-standard: 17.0.0_hp6gotjum73ci7vfl6v5wt52za
+  eslint-plugin-import: 2.26.0_ejk3zt536nc2nr7uicalblhboi
   eslint-plugin-jsx-a11y: 6.6.1_eslint@8.31.0
   eslint-plugin-node: 11.1.0_eslint@8.31.0
   eslint-plugin-promise: 6.1.1_eslint@8.31.0
@@ -4373,7 +4373,7 @@ packages:
       eslint: 8.31.0
     dev: true
 
-  /eslint-config-standard/17.0.0_znddyg3pq3gsezdt6zbjevdpmm:
+  /eslint-config-standard/17.0.0_hp6gotjum73ci7vfl6v5wt52za:
     resolution: {integrity: sha512-/2ks1GKyqSOkH7JFvXJicu0iMpoojkwB+f5Du/1SC0PtBL+s8v30k9njRZ21pm2drKYm2342jFnGWzttxPmZVg==}
     peerDependencies:
       eslint: ^8.0.1
@@ -4382,7 +4382,7 @@ packages:
       eslint-plugin-promise: ^6.0.0
     dependencies:
       eslint: 8.31.0
-      eslint-plugin-import: 2.25.2_ejk3zt536nc2nr7uicalblhboi
+      eslint-plugin-import: 2.26.0_ejk3zt536nc2nr7uicalblhboi
       eslint-plugin-promise: 6.1.1_eslint@8.31.0
     dev: true
 
@@ -4459,8 +4459,8 @@ packages:
       string-natural-compare: 3.0.1
     dev: true
 
-  /eslint-plugin-import/2.25.2_ejk3zt536nc2nr7uicalblhboi:
-    resolution: {integrity: sha512-qCwQr9TYfoBHOFcVGKY9C9unq05uOxxdklmBXLVvcwo68y5Hta6/GzCZEMx2zQiu0woKNEER0LE7ZgaOfBU14g==}
+  /eslint-plugin-import/2.26.0_ejk3zt536nc2nr7uicalblhboi:
+    resolution: {integrity: sha512-hYfi3FXaM8WPLf4S1cikh/r4IxnO6zrhZbEGz2b660EJRbuxgpDS5gkCuYgGWg2xxh2rBuIr4Pvhve/7c31koA==}
     engines: {node: '>=4'}
     peerDependencies:
       '@typescript-eslint/parser': '*'
