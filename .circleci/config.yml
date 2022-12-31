@@ -19,6 +19,6 @@ jobs:
             - ./node_modules
 
 workflows:
-  build-deploy:
+  lint-or-build:
     jobs:
       - lint
