@@ -12,6 +12,8 @@
   "engines": {
     "node": "16.x",
     "pnpm": "7.x",
+    "yarn": "pnpmを使ってください",
+    "npm": "pnpmを使ってください"
   },
   "dependencies": {
     "expo": "47.0.9",
