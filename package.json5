@@ -9,6 +9,10 @@
     ios: 'expo start --ios',
     web: 'expo start --web',
   },
+  "engines": {
+    "node": "16.x",
+    "pnpm": "7.x"
+  },
   dependencies: {
     // React Native設定
     expo: '47.0.9',
